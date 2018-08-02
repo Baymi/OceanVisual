@@ -1,0 +1,50 @@
+.time-line{width: 630px;height: 43px;background: rgba(67,67,67,0.8);position: absolute;bottom: 50px;left: 50%;transform: translate(-310px);
+    color: white;font-size: 12px;z-index: 10;    border-radius: 30px;}
+.time-unvisible{display: none;}
+.time-line > img:first-child{margin: 17px 15px 0px 15px;}
+.time-line>span{line-height: 67px;}
+.center-main{width: 580px;height: 100%; position: absolute;top: 0px;left: 41px;}
+.center-main p{position: absolute;left: 205px;top:28px;font-size: 12px;}
+.fr{float: right;margin-right: 20px}
+.now-nowVal{display: none;}
+.beginBtn-wrap{
+    width: 25px;
+    height: 25px;
+    background: rgba(0,255,255,0.3);
+    float: left;
+    margin: 10px 10px 0px 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.beginBtn{
+        margin: 7px 8px;
+}
+/*1：去除默认样式*/
+input[type=range] {
+    -webkit-appearance: none;
+    width: 570px;
+    border-radius: 10px; /*这个属性设置使填充进度条时的图形为圆角*/
+    margin-top: 15px;
+}
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+}
+/*给滑动轨道定义样式*/
+input[type=range]::-webkit-slider-runnable-track {
+    height: 2px;
+    /*轨道内置阴影效果*/
+    box-shadow: 0 1px 1px #00FFFF, inset 0 3px 1px #00FFFF; 
+}
+input[type=range]:focus {
+    outline: none;
+}
+/*给滑块(thumb)添加样式*/
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 15px;
+    width: 15px;
+    margin-top: -6px; /*使滑块超出轨道部分的偏移量相等*/
+    background: #00FFFF; 
+    border-radius: 50%; /*外观设置为圆形*/
+    box-shadow: inset 0px 0px 25px white;
+}

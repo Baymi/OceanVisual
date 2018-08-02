@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>GeoVis Ocean</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./antd.css">
+  <link rel="stylesheet" href="./loader.css">
+  <style>
+	html {
+		height: 100%;
+	}
+	
+	body {
+		height: 100%;
+		width: 100%;
+		margin: 0;
+		overflow: hidden;
+		padding: 0;
+		left: 0;
+		position: relative;
+		-webkit-transition: all 0.3s ease;
+	    -moz-transition: all 0.3s ease;
+	}
+	.fullWindow {
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 100%;
+		width: 100%;
+		margin: 0;
+		overflow: hidden;
+		padding: 0;
+		font-family: sans-serif;
+	}
+</style>
+</head>
+<script src="./build/GeoVis.js"></script>
+<script src="./lib/GeoserverTerrainProvider.js"></script>
+<script src="./lib/three.min.js"></script>
+<script src="./lib/Tween.js"></script>
+<script src="./lib/echarts.js"></script>
+<script src="./lib/echarts-gl.js"></script>
+<script src="./lib/jquery.js"></script>
+<script src="./plugins/TrackedEntity.js"></script>
+<script src="./plugins/TrackedGroup.js"></script>
+<body>
+
+  <div id="root" class="fullWindow"></div>
+  	<div id="loader">
+		<div class="loader21 loader">
+			<div class="loader-21">
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

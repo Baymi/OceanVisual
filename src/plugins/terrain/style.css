@@ -1,0 +1,10 @@
+.layerPanel{
+    width: 300px;
+    position: absolute;
+    right: 30px;
+    background: #fff;
+    top: 100px;
+    height: 500px;
+    padding: 0px 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,54 @@
+.leftUp{
+    width: 370px;
+    position: absolute; 
+    background: #fff;
+    top: 77px;
+    left: 0px;
+    padding: 0px 10px;
+    border-radius: 5px;
+}
+
+
+.rightPanel{
+    width: 400px;
+    position: absolute;
+    background: #fff;
+    top: 70px;
+    right: 0px;
+    padding: 0px 10px;
+    border-radius: 5px;    
+    /* display: none */
+}
+
+.pPara{
+    margin-bottom: 10px;
+    color: #fff
+}
+
+.marker{
+    width: 82px;
+    height: 83px;
+    background: url("./data/markers/fubiao.png") no-repeat;
+    cursor: pointer
+}
+
+.scatterChart_div{
+    width: 400px;
+    height: 360px;
+}
+.searthCon{
+    border: 1px solid rgb(145, 213, 255);    
+    /* height: 222px;     */
+    display: block
+}
+
+.searthLi{
+    padding: 7px;
+    color: #fff;
+}
+.searthLi:hover{
+    padding: 9px;
+    color: #fff;
+    background-color:rgba(145, 213, 255, 0.431);
+    cursor: pointer;
+}

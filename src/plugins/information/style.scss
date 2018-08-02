@@ -1,0 +1,31 @@
+
+
+.leftUp{
+    width: 300px;
+    position: absolute; 
+    background: #fff;
+    margin-top: 77px;
+    left: 0px;
+    padding: 0px 10px;
+    border-radius: 5px;
+}
+
+.buoy-station {
+    /* position: absolute; */
+    width: 32px;
+    height: 32px;
+    margin-left: -14px;
+    margin-top: -30px;
+    background: url("./data/markers/buoy.png") no-repeat;
+    cursor: pointer
+}
+
+.info-p{
+    margin-left: 10%;
+    color: rgb(255, 255, 255);
+}
+
+.ant-input{
+    color: rgb(255, 255, 255);
+    background-color: #607D8B;
+}

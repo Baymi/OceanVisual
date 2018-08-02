@@ -1,0 +1,45 @@
+{
+  "extends": [
+    "standard",
+    "plugin:react/recommended",
+    "prettier",
+    "prettier/react",
+    "prettier/standard"
+  ],
+  "plugins": [
+    "react",
+    "prettier",
+    "standard"
+  ],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "parser": "babel-eslint",
+    "sourceType": "module",
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "globals": {
+    "Babel": true,
+    "React": true,
+    "GeoVis": true,
+    "document": true,
+    "window": true,
+    "THREE": true,
+    "TWEEN": true,
+    "earth": true,
+    "Engine": true,
+    "fetch": true,
+    "echarts": true
+  },
+  "env": {
+    "commonjs": true,
+    "es6": true,
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}

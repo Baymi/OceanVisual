@@ -1,0 +1,58 @@
+[
+    {   
+        "id": 1,
+        "titleUrl": "./resource/creature/sponge/title1.png",
+        "title":"新种图片，未定名bolosoma sp.nov",
+        "subUrl": "./resource/creature/sponge/sub1.png",
+        "sub":"骨针图片",
+        "lon": 126.974911,
+        "lat": 27.5410423,
+        "height": -6800,
+        "rotateZ": 0,
+        "zoom": 600,
+        "collect": "采集信息：时间：2014年4月15日，深度：1284.4m，地点：冲绳海槽（126°58.494683'E，27°32.462542'N）",
+        "des": "特征：海绵高16cm，酒精浸泡后白色。海绵基部骨骼坚硬，以具基网板（basiphytose）的梗(pedunculate)的方式固着，梗长2cm。海绵具有一个大的中央腔。柔软，易压缩。一些侧面的出水口覆盖在梗的表面，这些出水口的直径约3cm。入水孔的孔径较小。出水口附近外表面有特化的小的筛网状的薄膜。分类讨论：该属含有8个种，本新种与其它已知种的最显著的区别是下皮层主要含有二辐骨针，而不是六辐骨针。同时本种的梗较短，其它已知种的梗都比新种长。再次，本新种含有三种不同大小的discohexasters。该特征只在Bolosoma cavum Ijima, 1927中有出现。但其discohexasters明显的分为三种不同形状，分别含有6个，6个和18个盘。而本种三种类型的盘不含有固定的个数。"
+    },
+    {   
+        "id": 2,
+        "titleUrl": "./resource/creature/sponge/title2.png",
+        "title":"疑似新种，未定名Acanthascus sp.nov",
+        "subUrl": "./resource/creature/sponge/sub2.png",
+        "sub":"骨针图片",
+        "lon": 126.968847,
+        "lat": 27.551155,
+        "height": -6800,
+        "rotateZ": 0,
+        "zoom": 700,
+        "collect": "采集信息：时间：2014年4月20日，深度：1361.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": "特征：海绵圆球形，高约40 mm，最宽部分横截面直径约40 mm。中央腔以一个大的出水口开口于体表，直径约16 mm。在海绵侧表面可见一些较小的出水口，直径约9 mm。以基网板（basiphytose）的方式固着生长。（prostalia lateralia) 以单独的二辐骨针或者成束的突出体表，突出体表长度可达 20 mm。海绵柔软，易压缩。分类讨论：该海绵不同于其它海绵（1）不含有皮层和atrialia 的stauractins and pentactins.（2）含有microdisohexaster 的结构与其它种不同。"
+    },
+    {   
+        "id": 3,
+        "titleUrl": "./resource/creature/sponge/title3.png",
+        "title":"Vulcanella porosa (Lebwohl, 1914) ",
+        "subUrl": "./resource/creature/sponge/sub3.png",
+        "sub":"骨针图片",
+        "lon": 126.974353,
+        "lat": 27.545792,
+        "height": -6800,
+        "rotateZ": 0,
+        "zoom": 600,
+        "collect": "采集信息：时间：2014年4月15日，深度：1247m，地点：冲绳海槽Okinawa Trough（126°58.461181'E，27°32.7475329'N）",
+        "des": "特征：该种海绵覆盖在另外一种死的海绵骨骼上。海绵中央有特化的排水区，称为有孔的排水区（fenestrate cloacas)，成乳白色。出水孔在该区形成特殊的筛网状。有突出体表的骨针成栅栏状包围出水口一圈。这些骨针成黑褐色。海绵个体大小不一，在较小的个体可以发现突出体表的二尖骨针在有孔的排水区周围成放射状排列。分布：该海绵在日本海域有报道。"
+    },
+    {   
+        "id": 4,
+        "titleUrl": "./resource/creature/sponge/title4.png",
+        "title":"Poecillastra compressa",
+        "subUrl": "./resource/creature/sponge/sub4.png",
+        "sub":"骨针图片",
+        "lon": 126.994353,
+        "lat": 27.545792,
+        "height": -6800,
+        "rotateZ": 0,
+        "zoom": 600,
+        "collect": "采集信息：编号：RY0078（时间：2014年4月16日，深度：1242.9 m，地点：冲绳海槽Okinawa Trough（126°58.4611817'E，27°32.7475328'N））。",
+        "des": "特征：海绵个体很大，成大的漏斗状，基部比较细小，开口宽大，海绵高19cm，开口直径22cm，厚度2cm。酒精浸泡后颜色呈浅灰色。海绵表面有小的毛状刺，腔内表面凹凸不平，外表面相对平滑，在海绵主体部分有一圆柱状分枝，柱状体高11cm，直径 4.5 cm，海绵质地较硬，可压缩，易碎。分布：该种是个世界广布种，在地中海，南大西洋有分布，深度在0-1740 m，它们生活在深海珊瑚礁，硬底质和峡湾。"
+    }
+]

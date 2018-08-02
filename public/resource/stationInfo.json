@@ -1,0 +1,92 @@
+[
+    {
+        "imageUrl": "./data/station1.jpg",
+        "lon": 122.44399367252804,
+        "lat": 30.093766540547346,
+        "name": "崇武站",
+        "id": 1,
+        "waterL": "一类水质",
+        "currentL": "SSW,2.4m/s",
+        "elementL": "磷酸盐,硅酸盐,碱",
+        "creatureL": "绿藻,磷虾"
+    },
+    {
+        "imageUrl": "./data/station2.jpg",
+        "lon": 122.42879535901751,
+        "lat": 30.013086108641275,
+        "name": "宁德站",
+        "id": 2,
+        "waterL": "二类水质",
+        "currentL": "SW,1.8m/s",
+        "elementL": "磷酸盐,硅酸盐,碱",
+        "creatureL": "绿藻,磷虾,扇贝"
+    },
+    {
+        "imageUrl": "./data/station3.jpg",
+        "lon": 122.13841548251025,
+        "lat": 29.273391797637043,
+        "name": "千里岩站",
+        "id": 3,
+        "waterL": "一类水质",
+        "currentL": "N,3.1m/s",
+        "elementL": "磷酸盐,硅酸盐,碱",
+        "creatureL": "蟹,磷虾"
+    },
+    {
+        "imageUrl": "./data/station4.jpg",
+        "lon": 121.85348796875694,
+        "lat": 28.77382955897262,
+        "name": "洋口港站",
+        "id": 4,
+        "waterL": "二类水质",
+        "currentL": "SSW,1.1m/s",
+        "elementL": "磷酸盐,硅酸盐,碱",
+        "creatureL": "海豚,磷虾"
+    },
+    {
+        "imageUrl": "./data/station5.jpg",
+        "lon": 121.58480810944833,
+        "lat": 28.24098342777262,
+        "name": "小长山站",
+        "id": 5,
+        "waterL": "三类水质",
+        "currentL": "NNW,2.3m/s",
+        "elementL": "磷酸盐,硅酸盐,碱",
+        "creatureL": "绿藻,水草"
+    },
+    {
+        "imageUrl": "./data/station6.jpg",
+        "lon": 120.91284614594997,
+        "lat": 27.618983516582425,
+        "name": "新港站",
+        "id": 6,
+        "waterL": "一类水质",
+        "currentL": "SSE,2.7m/s",
+        "elementL": "磷酸盐,碳酸钙,碱",
+        "creatureL": "绿藻,长脚蟹"
+    },
+    {
+        "imageUrl": "./data/station7.jpg",
+        "lon": 120.06412815491365,
+        "lat": 26.596297482003514,
+        "name": "大万山站",
+        "id": 7,
+        "waterL": "二类水质",
+        "currentL": "NW,2.4m/s",
+        "elementL": "磷酸盐,硅酸盐,碱",
+        "creatureL": "绿藻,水母"
+    },
+    {
+        "imageUrl": "./data/station8.jpg",
+        "lon": 120.11475447112745,
+        "lat": 26.766499680626854,
+        "name": "小麦岛站",
+        "id": 8,
+        "waterL": "一类水质",
+        "currentL": "NE,1.9m/s",
+        "elementL": "磷酸盐,硅酸盐,碱",
+        "creatureL": "绿藻,河豚,磷虾"
+    }
+    
+    
+]

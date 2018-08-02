@@ -1,0 +1,17 @@
+[
+    {   
+        "id": 1,
+        "titleUrl": "./resource/creature/whale/title1.png",
+        "title":"蓝鲸",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"",
+        "lon": 126.998847,
+        "lat": 27.885155,
+        "height": -50,
+        "rotateZ": 0,
+        "zoom": 100,
+        "collect": "观测信息：时间：2014年4月17日，深度：2261.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": "特征：地球上最大的动物"
+    }
+    
+]

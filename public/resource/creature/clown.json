@@ -1,0 +1,46 @@
+[
+    {   
+        "id": 1,
+        "titleUrl": "./resource/creature/clown/title1.png",
+        "title":"小丑鱼",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"",
+        "lon": 127.128847,
+        "lat": 27.865155,
+        "height": -4550,
+        "rotateZ": 90,
+        "zoom": 30,
+        "collect": "观测信息：时间：2014年4月17日，深度：2261.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": "特征："
+    },
+    {   
+        "id": 2,
+        "titleUrl": "./resource/creature/clown/title2.png",
+        "title":"小丑鱼",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"",
+        "lon": 127.118847,
+        "lat": 27.875155,
+        "height": -4500,
+        "rotateZ": -60,
+        "zoom": 50,
+        "collect": "观测信息：时间：2014年4月17日，深度：2261.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": "特征："
+    },
+    {   
+        "id": 3,
+        "titleUrl": "./resource/creature/clown/title3.png",
+        "title":"小丑鱼",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"",
+        "lon": 127.098847,
+        "lat": 27.885155,
+        "height": -3500,
+        "rotateZ": 30,
+        "zoom": 50,
+        "collect": "观测信息：时间：2014年4月17日，深度：2261.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": "特征："
+    }
+
+    
+]

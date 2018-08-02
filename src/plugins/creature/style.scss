@@ -1,0 +1,73 @@
+
+@keyframes neon1 {
+    from {
+      box-shadow: 
+                 0 0 20px  rgba(38, 50, 56, 0.66),
+                 0 0 30px  rgba(38, 50, 56, 0.64),
+                 0 0 40px  rgba(38, 50, 56, 0.63),
+                 0 0 50px  rgba(38, 50, 56, 0.6),
+                 0 0 60px rgba(38, 50, 56, 0.58),
+                 0 0 70px rgba(38, 50, 56, 0.56),
+                 0 0 80px rgba(38, 50, 56, 0.54),
+                 0 0 90px rgba(38, 50, 56, 0.52),
+                 0 0 100px rgba(38, 50, 56, 0.5),
+                 0 0 110px rgba(38, 50, 56, 0.48),
+                 0 0 120px rgba(38, 50, 56, 0.46),
+                 0 0 130px rgba(38, 50, 56, 0.44)
+    }
+    to {
+      box-shadow: 
+      0 0 20px  rgba(38, 50, 56, 0.66),
+      0 0 30px  rgba(38, 50, 56, 0.64),
+      0 0 40px  rgba(38, 50, 56, 0.63),
+      0 0 50px  rgba(38, 50, 56, 0.6),
+      0 0 60px rgba(38, 50, 56, 0.58),
+      0 0 70px rgba(38, 50, 56, 0.56),
+      0 0 80px rgba(38, 50, 56, 0.54),
+      0 0 90px rgba(38, 50, 56, 0.52),
+      0 0 100px rgba(38, 50, 56, 0.5),
+      0 0 110px rgba(38, 50, 56, 0.48),
+      0 0 120px rgba(38, 50, 56, 0.46),
+      0 0 130px rgba(38, 50, 56, 0.44)
+    }
+  }
+
+.leftPanel300{
+    position: absolute;
+    background: #fff;
+    width: 300px;
+    top: 70px;
+    left: 300px;
+    //left: 10px;
+    padding: 10px;
+    border: rgb(145, 213, 255) solid 1px;
+    border-radius: 5px;
+    background-color: rgba(38, 50, 56, 1.0);
+    animation: neon1 1.5s ease-in-out infinite alternate;
+}
+.ant-cascader-picker{
+    color: #fff;
+    background-color: #607D8B;
+}
+
+.ant-input.ant-cascader-input {
+    color: #000;
+}
+
+.ant-cascader-input.ant-input {
+    color: rgb(145, 213, 255);
+}
+
+.creaturePanel{
+    width: 400px;
+    position: absolute;
+    background: #fff;
+    top: 70px;
+    right: 0px;
+    border-radius: 5px; 
+    display: none 
+}
+
+.creaturePanel .ant-card-meta-title{
+    font-size: 14px
+}

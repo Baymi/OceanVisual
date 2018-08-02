@@ -1,0 +1,132 @@
+.side-panel{
+    position: absolute;
+    background: #fff;
+    width: 350px;
+    height: 80%;
+    top: 70px;
+    left: 10px;
+}
+.terrain-list > .ant-card-cover > img{
+    max-height: 150px;
+}
+@keyframes neon1 {
+    from {
+      box-shadow: 
+                 0 0 20px  rgba(38, 50, 56, 0.66),
+                 0 0 30px  rgba(38, 50, 56, 0.64),
+                 0 0 40px  rgba(38, 50, 56, 0.63),
+                 0 0 50px  rgba(38, 50, 56, 0.6),
+                 0 0 60px rgba(38, 50, 56, 0.58),
+                 0 0 70px rgba(38, 50, 56, 0.56),
+                 0 0 80px rgba(38, 50, 56, 0.54),
+                 0 0 90px rgba(38, 50, 56, 0.52),
+                 0 0 100px rgba(38, 50, 56, 0.5),
+                 0 0 110px rgba(38, 50, 56, 0.48),
+                 0 0 120px rgba(38, 50, 56, 0.46),
+                 0 0 130px rgba(38, 50, 56, 0.44)
+    }
+    to {
+      box-shadow: 
+      0 0 20px  rgba(38, 50, 56, 0.66),
+      0 0 30px  rgba(38, 50, 56, 0.64),
+      0 0 40px  rgba(38, 50, 56, 0.63),
+      0 0 50px  rgba(38, 50, 56, 0.6),
+      0 0 60px rgba(38, 50, 56, 0.58),
+      0 0 70px rgba(38, 50, 56, 0.56),
+      0 0 80px rgba(38, 50, 56, 0.54),
+      0 0 90px rgba(38, 50, 56, 0.52),
+      0 0 100px rgba(38, 50, 56, 0.5),
+      0 0 110px rgba(38, 50, 56, 0.48),
+      0 0 120px rgba(38, 50, 56, 0.46),
+      0 0 130px rgba(38, 50, 56, 0.44)
+    }
+  }
+
+.terrain-left{
+    position: absolute;
+    width: 300px;
+    top: 70px;
+    left: 10px;
+    background-color: rgba(38, 50, 56, 1.0);
+    animation: neon1 1.5s ease-in-out infinite alternate;
+}
+
+.terrain-left > ul{
+    list-style: none;
+    padding: 0;
+}
+//antd卡片样式
+.antd-Card{
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: rgba(38, 50, 56, 1.0);
+}
+
+.ant-card-body {
+    background: rgba(38, 50, 56, 1.0);
+}
+
+.ant-card-bordered {
+    border: 1px solid #91d5ff;
+}
+
+.ant-card-meta-title {
+    color: rgb(145, 213, 255);
+}
+
+.ant-card-meta-description {
+    color: rgb(255, 255, 255);
+}
+
+.terrain-right{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    top: 70px;
+    right: 10px;
+    padding: 0px 10px;
+    border-radius: 5px;
+    border: rgb(145, 213, 255) solid 1px;
+    background-color: rgba(38, 50, 56, 1.0);
+    animation: neon1 1.5s ease-in-out infinite alternate;
+}
+
+.ant-radio-button-wrapper {
+    color: #fff;
+    background-color: #607D8B;
+    border: 1px solid #607D8B;
+    border-left: 1px solid #607D8B !important; 
+}
+
+.ant-input-number-input{
+    color: #fff;
+    background-color: #607D8B;
+}
+
+.ant-switch-checked {
+    background-color: rgb(145, 213, 255);
+}
+
+.ant-slider-mark-text {
+    color: rgb(255, 255, 255);
+}
+
+.terrain-p{
+    color: rgb(255, 255, 255);
+}
+
+.ant-divider-inner-text {
+    color: rgb(145, 213, 255);
+}
+
+.side-panel > .ant-card-body{
+    background-color: #F0F2F5;
+}
+.side-panel > .ant-card-head > .ant-card-head-wrapper > .ant-card-head-title{
+    text-align: center;
+    font-family: 20px;
+    font-size: 1.4em;
+    padding: 8px 0px;
+}
+
+

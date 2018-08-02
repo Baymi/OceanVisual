@@ -1,0 +1,17 @@
+[
+    {   
+        "id": 1,
+        "titleUrl": "./resource/creature/flatrock/title1.png",
+        "title":"沉积岩",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"",
+        "lon": 126.948847,
+        "lat": 27.465155,
+        "height": -7500,
+        "rotateZ": -30,
+        "zoom": 20,
+        "collect": "观测信息：时间：2014年4月17日，深度：2261.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": ""
+    }
+    
+]

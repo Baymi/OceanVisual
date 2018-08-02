@@ -1,0 +1,279 @@
+@-webkit-keyframes loader21 {
+	0% {
+		-webkit-transform: scale(1, 1);
+	}
+	100% {
+		-webkit-transform: scale(1, 0.3);
+	}
+}
+.loader-21 div {
+	width: 5px;
+    height: 35px;
+	background: #fff;
+	border-radius: 2px;
+    display: inline-block;
+   
+}
+.loader21{
+    left: 47%;
+    top: 47%;
+    position: absolute;
+}
+.loader-21 div:nth-child(1) {
+	-webkit-animation: loader21 0.5s -0.3s ease-in-out infinite alternate;
+}
+.loader-21 div:nth-child(2) {
+	-webkit-animation: loader21 0.5s -0.15s ease-in-out infinite alternate;
+}
+.loader-21 div:nth-child(3) {
+	-webkit-animation: loader21 0.5s 0s ease-in-out infinite alternate;
+}
+.loader-21 div:nth-child(4) {
+	-webkit-animation: loader21 0.5s -0.15s ease-in-out infinite alternate;
+}
+.loader-21 div:nth-child(5) {
+	-webkit-animation: loader21 0.5s -0.4s ease-in-out infinite alternate;
+}
+
+	#loader {
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 100%;
+		width: 100%;
+		margin: 0;
+		overflow: hidden;
+		padding: 0;
+        background-color: #202c2f;
+        z-index: 2000;
+	}
+
+	.gv-marker.pos_1_1 {
+		background-position: 0 0;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_1_2 {
+		background-position: -30px 0;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_1_3 {
+		background-position: -60px 0;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_1_4 {
+		background-position: -90px 0;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_1_5 {
+		background-position: -120px 0;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_1_6 {
+		background-position: -150px 0;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_1_7 {
+		background-position: -180px 0;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_1_8 {
+		background-position: -210px 0;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_1_9 {
+		background-position: -240px 0;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_1_10 {
+		background-position: -270px 0;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_2_1 {
+		background-position: 0 -30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_2_2 {
+		background-position: -30px -30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_2_3 {
+		background-position: -60px -30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_2_4 {
+		background-position: -90px -30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_2_5 {
+		background-position: -120px -30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_2_6 {
+		background-position: -150px -30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_2_7 {
+		background-position: -180px -30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_2_8 {
+		background-position: -210px -30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_2_9 {
+		background-position: -240px -30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_2_10 {
+		background-position: -270px -30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_3_1 {
+		background-position: 0 -60px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_3_2 {
+		background-position: -30px -60px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_3_3 {
+		background-position: -60px -60px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_3_4 {
+		background-position: -90px -60px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_3_5 {
+		background-position: -120px -60px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_3_6 {
+		background-position: -150px -60px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_3_7 {
+		background-position: -180px -60px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_3_8 {
+		background-position: -210px -60px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_3_9 {
+		background-position: -240px -60px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_3_10 {
+		background-position: -270px -60px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_4_1 {
+		background-position: 0 -90px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_4_2 {
+		background-position: -30px -90px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_4_3 {
+		background-position: -60px -90px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_4_4 {
+		background-position: -90px -90px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_4_5 {
+		background-position: -120px -90px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_4_6 {
+		background-position: -150px -90px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_4_7 {
+		background-position: -180px -90px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_4_8 {
+		background-position: -210px -90px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_4_9 {
+		background-position: -240px -90px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker.pos_4_10 {
+		background-position: -270px -90px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	.gv-marker {
+		cursor: pointer;
+		/* position: absolute; */
+		top: 9999999px;
+		width: 30px;
+		margin-left: -15px;
+		margin-top: -20px;
+		height: 30px;
+		background-image: url("./plugins/CityDetail/icon.png")
+	}
+	
+	 .marker-route {
+		/* position: absolute; */
+		width: 40px;
+		height: 44px;
+		margin-left: -14px;
+		margin-top: -30px;
+		color: #e90000;
+		background: url("./plugins/CityDetail/marker.png") no-repeat;
+		cursor: pointer
+	}
+
+	.marker-marker-drive-to {
+		background-position: -11px 0
+	}
+	
+	.marker-marker-drive-from {
+		background-position: -11px -45px
+	}

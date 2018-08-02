@@ -1,0 +1,59 @@
+[
+    {   
+        "id": 1,
+        "titleUrl": "./resource/creature/seaweed/title1.png",
+        "title":"海草",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"暂无图片",
+        "lon": 126.984911,
+        "lat": 27.5810423,
+        "height": -7300,
+        "rotateZ": 45,
+        "zoom": 20,
+        "collect": "观测信息：时间：2014年4月15日，深度：1184.4m，地点：冲绳海槽（126°58.494683'E，27°32.462542'N）",
+        "des": "无"
+    },
+    {   
+        "id": 2,
+        "titleUrl": "./resource/creature/seaweed/title2.png",
+        "title":"海草",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"暂无图片",
+        "lon": 127.034911,
+        "lat": 27.5610423,
+        "height": -7300,
+        "rotateZ": 45,
+        "zoom": 20,
+        "collect": "观测信息：时间：2014年4月15日，深度：1384.4m，地点：冲绳海槽（126°58.494683'E，27°32.462542'N）",
+        "des": "无"
+    },
+    {   
+        "id": 3,
+        "titleUrl": "./resource/creature/seaweed/title3.png",
+        "title":"海草",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"暂无图片",
+        "lon": 126.964911,
+        "lat": 27.5510423,
+        "height": -7300,
+        "rotateZ": 45,
+        "zoom": 20,
+        "collect": "观测信息：时间：2014年4月15日，深度：1384.4m，地点：冲绳海槽（126°58.494683'E，27°32.462542'N）",
+        "des": "无"
+    },
+    {   
+        "id": 4,
+        "titleUrl": "./resource/creature/seaweed/title4.png",
+        "title":"海草",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"暂无图片",
+        "lon": 126.998847,
+        "lat": 27.885155,
+        "height": -5300,
+        "rotateZ": 0,
+        "zoom": 20,
+        "collect": "观测信息：时间：2014年4月15日，深度：1384.4m，地点：冲绳海槽（126°58.494683'E，27°32.462542'N）",
+        "des": "无"
+    }
+    
+]

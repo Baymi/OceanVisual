@@ -1,0 +1,17 @@
+[
+    {   
+        "id": 1,
+        "titleUrl": "./resource/creature/island/title1.png",
+        "title":"大龟岛",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"",
+        "lon": 126.808847,
+        "lat": 27.605155,
+        "height": -420,
+        "rotateZ": 0,
+        "zoom": 10,
+        "collect": "观测信息：时间：2014年4月17日，深度：2261.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": "特征：岛上生态环境较好，海龟的产卵圣地"
+    }
+    
+]

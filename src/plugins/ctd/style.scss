@@ -1,0 +1,129 @@
+@keyframes neon1 {
+    from {
+      box-shadow: 
+                 0 0 20px  rgba(38, 50, 56, 0.66),
+                 0 0 30px  rgba(38, 50, 56, 0.64),
+                 0 0 40px  rgba(38, 50, 56, 0.63),
+                 0 0 50px  rgba(38, 50, 56, 0.6),
+                 0 0 60px rgba(38, 50, 56, 0.58),
+                 0 0 70px rgba(38, 50, 56, 0.56),
+                 0 0 80px rgba(38, 50, 56, 0.54),
+                 0 0 90px rgba(38, 50, 56, 0.52),
+                 0 0 100px rgba(38, 50, 56, 0.5),
+                 0 0 110px rgba(38, 50, 56, 0.48),
+                 0 0 120px rgba(38, 50, 56, 0.46),
+                 0 0 130px rgba(38, 50, 56, 0.44)
+    }
+    to {
+      box-shadow: 
+      0 0 20px  rgba(38, 50, 56, 0.66),
+      0 0 30px  rgba(38, 50, 56, 0.64),
+      0 0 40px  rgba(38, 50, 56, 0.63),
+      0 0 50px  rgba(38, 50, 56, 0.6),
+      0 0 60px rgba(38, 50, 56, 0.58),
+      0 0 70px rgba(38, 50, 56, 0.56),
+      0 0 80px rgba(38, 50, 56, 0.54),
+      0 0 90px rgba(38, 50, 56, 0.52),
+      0 0 100px rgba(38, 50, 56, 0.5),
+      0 0 110px rgba(38, 50, 56, 0.48),
+      0 0 120px rgba(38, 50, 56, 0.46),
+      0 0 130px rgba(38, 50, 56, 0.44)
+    }
+  }
+
+.ctd-rightup{
+    width: 400px;
+    position: absolute;
+    background: rgba(38, 50, 56, 1.0);
+    top: 70px;
+    /* height: 500px; */
+    right: 0px;
+    padding: 0px 10px;
+    border: rgb(145, 213, 255) solid 1px;
+    border-radius: 5px; 
+    animation: neon1 1.5s ease-in-out infinite alternate;
+}
+
+.ant-btn-primary {
+    color: rgb(0, 0, 0);
+    background-color: rgb(145, 213, 255);
+    border-color: #607D8B;
+}
+
+.ctd-left{
+    position: absolute;
+    width: 400px;
+    top: 70px;
+    background-color: rgba(38, 50, 56, 1.0);
+    animation: neon1 1.5s ease-in-out infinite alternate;
+}
+
+.ant-select-selection{
+    color: #fff;
+    background-color: #607D8B;
+    border: 1px solid #607D8B;
+}
+
+.ant-select-selection >span{
+    color: #fff;
+}
+
+.ant-btn{
+    color: #fff;
+    background-color: #607D8B;
+    border-color: #607D8B;
+}
+.antd-collapse{
+    width: 100%;
+    border: 1px solid rgb(145, 213, 255);
+    background: rgba(38, 50, 56, 1.0);
+}
+
+.ant-collapse > .ant-collapse-item > .ant-collapse-header {
+    color: rgb(145, 213, 255);
+    background: rgba(38, 50, 56, 1.0);
+    border: 1px solid rgb(145, 213, 255);
+    font-size: 17px;
+}
+
+.ant-collapse-content > .ant-collapse-content-box {
+    background-color: rgba(38, 50, 56, 1.0);
+}
+
+.ant-collapse-content {
+    border: 1px solid rgb(145, 213, 255);
+}
+
+.ant-collapse > .ant-collapse-item {
+    border-bottom: 1px solid rgb(145, 213, 255);
+}
+
+//antd表格样式
+.ant-table-thead > tr > th {
+    background: rgba(38, 50, 56, 1.0);
+    color: #fff;
+}
+
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td {
+    background: rgba(38, 50, 56, 1.0);
+    color: white;
+}
+
+.ant-table-thead > tr.ant-table-row-hover > td,
+.ant-table-tbody > tr.ant-table-row-hover > td,
+.ant-table-thead > tr:hover > td,
+.ant-table-tbody > tr:hover > td {
+  background: #fff;
+  color:#000;
+}
+
+.ctd-rightdown{
+    width: 400px;
+    position: absolute;
+    background: rgba(38, 50, 56, 1.0);
+    top: 350px;
+    right: 0px;
+    border: rgb(145, 213, 255) solid 1px;
+    border-radius: 5px; 
+    animation: neon1 1.5s ease-in-out infinite alternate;
+}

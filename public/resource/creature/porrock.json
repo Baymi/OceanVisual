@@ -1,0 +1,17 @@
+[
+    {   
+        "id": 1,
+        "titleUrl": "./resource/creature/porrock/title1.png",
+        "title":"玄武岩",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"",
+        "lon": 126.978847,
+        "lat": 27.485155,
+        "height": -6500,
+        "rotateZ": 0,
+        "zoom": 40,
+        "collect": "观测信息：时间：2014年4月17日，深度：1861.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": ""
+    }
+    
+]

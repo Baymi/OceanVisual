@@ -1,0 +1,46 @@
+[
+    {   
+        "id": 1,
+        "titleUrl": "./resource/creature/tropical/title1.png",
+        "title":"热带鱼",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"",
+        "lon": 126.958847,
+        "lat": 27.885155,
+        "height": -5550,
+        "rotateZ": 0,
+        "zoom": 50,
+        "collect": "观测信息：时间：2014年4月17日，深度：2261.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": "特征："
+    },
+    {   
+        "id": 2,
+        "titleUrl": "./resource/creature/tropical/title2.png",
+        "title":"热带鱼",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"",
+        "lon": 126.978847,
+        "lat": 27.885155,
+        "height": -4500,
+        "rotateZ": -60,
+        "zoom": 50,
+        "collect": "观测信息：时间：2014年4月17日，深度：2261.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": "特征："
+    },
+    {   
+        "id": 3,
+        "titleUrl": "./resource/creature/tropical/title3.png",
+        "title":"热带鱼",
+        "subUrl": "./resource/creature/none.gif",
+        "sub":"",
+        "lon": 126.998847,
+        "lat": 27.885155,
+        "height": -3500,
+        "rotateZ": 0,
+        "zoom": 40,
+        "collect": "观测信息：时间：2014年4月17日，深度：2261.2 m，地点：冲绳海槽（126°58.13082'E, 27°33.06928'N）",
+        "des": "特征："
+    }
+
+    
+]

@@ -1,0 +1,89 @@
+.leftPanel{
+    /* width: 450px;
+    position: absolute; */
+    background: #fff;
+    /* top: 70px; */
+    left: 0px;
+    padding: 0px 10px;
+    border-radius: 5px;    
+    /* display: none */
+}
+
+.rightupPanel{
+    width: 450px;
+    position: absolute;
+    background: #fff;
+    top: 70px;
+    /* height: 500px; */
+    right: 0px;
+    padding: 0px 10px;
+    border-radius: 5px;    
+}
+
+.rightdownPanel{
+    width: 450px;
+    position: absolute;
+    background: #fff;
+    top: 312px;
+    /* height: 500px; */
+    right: 0px;
+    padding: 0px 10px;
+    border-radius: 5px;    
+}
+
+
+.radioGroup{
+    width: 400px;
+}
+
+.barglChart_div{
+    width: 380px;
+    height: 300px;  
+    
+}
+
+.seafloorChart_div{
+    width: 380px;
+    height: 300px;  
+    
+}
+
+.tideChart_div{
+    width: 380px;
+    height: 300px;  
+    
+}
+
+.tideupChart_div{
+    width: 180px;
+    height: 120px;  
+    
+}
+
+.tidedownChart_div{
+    width: 180px;
+    height: 120px;  
+    
+}
+
+.stationMarker{
+    width: 48px;
+    height: 48px;
+    margin-left: 20px;
+    background: url("./resource/markers/station.png") no-repeat;
+    cursor: pointer
+}
+
+.tideMarker{
+    width: 48px;
+    height: 48px;
+    margin-left: 20px;
+    background: url("./resource/markers/tide.png") no-repeat;
+    cursor: pointer
+}
+
+.markerP{
+    color: #fff;
+    margin-top: 13px;
+    margin-left: 20px;
+}
